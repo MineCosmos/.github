@@ -1,1 +1,1 @@
-# .github
+# MineCosmos
