@@ -20,6 +20,14 @@ _✨ 打造一个以玩家群体为中心的宇宙 ✨_
 
 </div>
 
+### MineCosmos 生态
+
+- [x] [MineCosmos.Core](https://gitee.com/xintianyuehui_ln/MineCosmos.Core) - 核心后端
+- [x] [MineCosmos.Web](https://gitee.com/xintianyuehui_ln/minecraft-abcserver-web) 综合站点前端
+- [ ] MineCosmos.Bot 基于Discord与Kook的机器人
+- [x] [MineCosmos.Bukkit](https://gitee.com/xintianyuehui_ln/minecraft-abcserver-plugin) 基于Bukkit的插件
+- [ ] 基于farbric的模组 MineLink 支持实时语音的在线聊天（仿discord/kook）
+
 
 <!--
 
